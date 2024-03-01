@@ -7,4 +7,3 @@
 # Introduction
 
 - I'm Rhelv and I like Rust.
-
