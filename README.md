@@ -15,4 +15,4 @@
 
 - I'm Rhelv and I like Rust.
 
-<img align="left" alt="My's GitHub Metrics" src="/metrics_renders/github-metrics.svg " />
+
