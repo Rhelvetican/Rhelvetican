@@ -1,9 +1,18 @@
-![Rhelv's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rhelvetican&show_icons=true&theme=gruvbox)
+# Rhelvetican's Super Uncool Profile
 
-- I guess committing to private repos aren't cool.
+<p align="center">
+    <a href="">
+        <img src="https://github-readme-stats.vercel.app/api?username=Rhelvetican&show_icons=true&theme=gruvbox">
+    </a>
+    <p align="center">
+    <a href="">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rhelvetican&theme=gruvbox&layout=donut-vertical">
+    </a>
+</p>
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rhelvetican&theme=gruvbox&layout=donut-vertical)](https://github.com/Rhelvetican/github-readme-stats&theme=gruvbox&layout=donut-vertical)
-
-# Introduction
+## Introduction
 
 - I'm Rhelv and I like Rust.
+
+<img align="left" alt="My's GitHub Metrics" src="github-metrics.svg" />
